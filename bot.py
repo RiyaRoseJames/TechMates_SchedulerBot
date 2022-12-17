@@ -2,7 +2,7 @@ import discord
 import random
 # discord bot token added
 
-TOKEN= "MTA1MzU0NjgwMDI5Mzg4Mzk2NA.GM8VOO.PPa4wjCCcikj5bmaNFsbFtrVOsedjEb3K0xpRw"
+TOKEN= "MTA1MzU0NjgwMDI5Mzg4Mzk2NA.GCx3mY.dFm-BSNb1PeF9jnRp85YRNhMUeWx_n4LjOK-xE"
 intents=discord.Intents(messages=True)
 client = discord.Client(intents=intents) 
 # discord login
