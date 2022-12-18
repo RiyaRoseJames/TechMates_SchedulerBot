@@ -18,3 +18,7 @@ The bot will be able to collect the basic details from the user to schedule the 
 - [@sadayoosuf](https://github.com/sadayoosuf)
 - [@rosejames10](https://github.com/rosejames10)
 - [@NandhithaKrishna](https://github.com/NandhithaKrishna)
+
+## License and badges
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
