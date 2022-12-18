@@ -5,13 +5,21 @@ Discord meeting scheduler bot.
 
 ## Introduction
 A discord meeting scheduler bot that schedules meeting by collecting the required data from the user and schedules the meet.
-This bot is designed in a such a way that when the user gives the command "bot meetingName emailId time" the bot will schedule a meet in the specified time for the given email id with the given meeting name.
+This bot is designed in such a way that when the user gives the command "bot meetingName emailId time" the bot will schedule a meet in the specified time for the given email id with the given meeting name.
 
-## API References
-abcd
+## Stack Used
+* Python
+* Discord Server
+* Google Calender API
+
+## Set Up
+* Create Discord bot token
+* Make the bot online
+* Add the necessary features to the bot
+* Connect it to a google calender API
 
 ## Appendix
-The bot will be able to collect the basic details from the user to schedule the meet. If the scheduling is done right,then the user gets the scheduled meet details.
+The bot will be able to collect the basic details from the user to schedule the meet. If the scheduling is done right,then the user gets the scheduled meet details.The bot schedules the meet in google calender and gives a successfully scheduled message to the user.
 
 ## Authors
 - [@Devalakshmy](https://github.com/Devalakshmy)
@@ -21,7 +29,6 @@ The bot will be able to collect the basic details from the user to schedule the 
 
 ## License and badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 ## Contributing
 Contributions are welcomed!
