@@ -12,7 +12,7 @@ Console image is:
 ![alt text](https://github.com/rosejames10/TechMates_SchedulerBot/blob/ec5e5195ba8af093dd6590148f592f1519fb5746/console.jpg?raw=true)
 
 Calender scheduled output:
-![alt text](?raw=true)
+![alt text](https://github.com/rosejames10/TechMates_SchedulerBot/blob/57e665bc852112e12dba4fbfed57693fb0333cc4/Calender.jpg?raw=true)
 
 
 ## Stack Used
