@@ -24,7 +24,7 @@ Console image is:
 * Connect it to a google calender API
 
 ## Error
-![alt text](?raw=true)
+![alt text](https://github.com/rosejames10/TechMates_SchedulerBot/blob/2bd0e650f5758eeb14ffd520d707a837e447d28b/Error.jpg?raw=true)
 
 
 ## Appendix
