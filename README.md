@@ -17,6 +17,7 @@ This bot is designed in such a way that when the user gives the command "bot mee
 * Create Discord bot token
 * Make the bot online
 * Add the necessary features to the bot
+<img src="blob:https://web.whatsapp.com/5993cfd7-c634-45d2-bc89-15582f504a32">
 * Connect it to a google calender API
 
 ## Appendix
